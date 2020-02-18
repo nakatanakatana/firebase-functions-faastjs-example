@@ -16,7 +16,7 @@
   "dependencies": {
     "faastjs": "^1.2.3",
     "firebase-admin": "~7.0.0",
-    "firebase-functions": "^2.2.0"
+    "firebase-functions": "^2.3.1"
   },
   "devDependencies": {
     "tslint": "^5.12.0",
