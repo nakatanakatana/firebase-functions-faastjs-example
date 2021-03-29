@@ -14,7 +14,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "faastjs": "^1.2.3",
+    "faastjs": "^5.4.3",
     "firebase-admin": "~7.0.0",
     "firebase-functions": "^2.2.0"
   },
